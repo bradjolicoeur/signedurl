@@ -1,0 +1,4 @@
+C:\Users\bjolicoeur\source\repos\example.signedurl\src\example.signedurl\obj\Debug\netcoreapp2.1\example.signedurl.csprojAssemblyReference.cache
+C:\Users\bjolicoeur\source\repos\example.signedurl\src\example.signedurl\obj\Debug\netcoreapp2.1\example.signedurl.csproj.CoreCompileInputs.cache
+C:\Users\bjolicoeur\source\repos\example.signedurl\src\example.signedurl\obj\Debug\netcoreapp2.1\example.signedurl.AssemblyInfoInputs.cache
+C:\Users\bjolicoeur\source\repos\example.signedurl\src\example.signedurl\obj\Debug\netcoreapp2.1\example.signedurl.AssemblyInfo.cs
